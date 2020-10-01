@@ -1,4 +1,4 @@
-import { HashAlgorithm } from "./hash.ts";
+import type { HashAlgorithm } from "./hash.ts";
 
 /*
  * Calculate the SHA-1 of an array of big-endian words, and a bit length

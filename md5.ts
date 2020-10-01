@@ -1,4 +1,4 @@
-import { HashAlgorithm } from "./hash.ts";
+import type { HashAlgorithm } from "./hash.ts";
 
 /*
  * Add integers, wrapping at 2^32. This uses 16-bit operations internally
